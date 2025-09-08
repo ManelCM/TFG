@@ -1,11 +1,1 @@
-1️⃣ Refinamiento del LCA con ponderación de profundidad
-2️⃣ Similitud semántica para elegir el mejor LCA
-3️⃣ Lista jerárquica de conceptos en lugar de un solo LCA
-4️⃣ Embeddings de palabras para agrupar conceptos
-5️⃣ Usar un modelo de lenguaje para validar categorías
-6️⃣ Clustering semántico basado en definiciones
-7️⃣ Visualización de activaciones en espacio latente
-8️⃣ Uso de un modelo contrastivo (CLIP) para refinar conceptos
-9️⃣ Medición de consistencia y dispersión en las neuronas
-🔟 Comparación con humanos mediante imágenes activadas
 
